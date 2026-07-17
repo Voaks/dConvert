@@ -8,7 +8,7 @@ A small Discord slash-command bot that converts uploaded files with the CloudCon
 2. Create a virtual environment:
 
    ```powershell
-   C:\Users\aweso\AppData\Local\Programs\Python\Python314\python.exe -m venv .venv
+   py -3 -m venv .venv
    ```
 
 3. Install dependencies:
