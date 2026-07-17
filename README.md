@@ -1,4 +1,4 @@
-# Discord File Conversion Bot
+# dConvert - Discord File Conversion Bot
 
 A small Discord slash-command bot that converts uploaded files with the CloudConvert API.
 
