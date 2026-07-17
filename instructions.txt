@@ -1,3 +1,0 @@
-cd "V:\Discord Bot Stuff\File Conversion Bot"
-
-.\.venv\Scripts\python.exe bot.py
